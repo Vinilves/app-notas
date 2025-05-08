@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# App Notas Mobile👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Para iniciar o projeto
 
-1. Install dependencies
+1. Clonar o projeto
+
+   ```bash
+   npm install
+   ```
+   
+3. Instalar dependencias
 
    ```bash
    npm install
    ```
 
-2. Start the app
+4. Iniciar a aplicação
 
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+Na saída, você encontrará opções para abrir o aplicativo em um
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go), uma sandbox limitada para testar o desenvolvimento de aplicativos com o Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Você pode começar a desenvolver editando os arquivos dentro do diretório *app*. Este projeto usa [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## Obtenha um novo projeto
 
-When you're ready, run:
+Quando estiver pronto, execute:
 
 ```bash
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Este comando moverá o código inicial para o diretório *app-example* e criará um diretório *app* em branco onde você poderá começar a desenvolver.
 
-## Learn more
+## Telas da aplicação
 
-To learn more about developing your project with Expo, look at the following resources:
+Tela Inicial
+![image](https://github.com/user-attachments/assets/03824e1a-2aa3-42d7-bb68-8a4225107c68)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Tela de Notas
+![image](https://github.com/user-attachments/assets/39c43a9b-ea83-4a6c-866f-c8b85fef3e30)
 
-## Join the community
+Tela Inicial com uma nova nota
+![image](https://github.com/user-attachments/assets/9f87a1a4-127d-4ed2-8603-c13fc65c220c)
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
