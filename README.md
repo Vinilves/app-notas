@@ -54,4 +54,5 @@ Este comando moverá o código inicial para o diretório *app-example* e criará
 
 ## Licença
 
+Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
