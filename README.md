@@ -1,4 +1,4 @@
-# App Notas Mobile👋
+# App Notas Mobile📱
 
 Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -43,13 +43,15 @@ Este comando moverá o código inicial para o diretório *app-example* e criará
 
 ## Telas da aplicação
 
-## Tela Inicial
+### Tela Inicial
 ![image](https://github.com/user-attachments/assets/03824e1a-2aa3-42d7-bb68-8a4225107c68)
 
-## Tela de Notas
+### Tela de Notas
 ![image](https://github.com/user-attachments/assets/39c43a9b-ea83-4a6c-866f-c8b85fef3e30)
 
-## Tela Inicial com uma nova nota
+### Tela Inicial com uma nova nota
 ![image](https://github.com/user-attachments/assets/9f87a1a4-127d-4ed2-8603-c13fc65c220c)
+
+## Licença
 
 
