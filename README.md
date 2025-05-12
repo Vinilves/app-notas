@@ -7,7 +7,7 @@ Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https
 1. Clonar o projeto
 
    ```bash
-   npm install
+   https://github.com/Vinilves/app-notas.git
    ```
    
 3. Instalar dependencias
